@@ -3,7 +3,7 @@
 
 def position_taken?(board, index)
 
-eif board[index] == "X" || "O"
+if board[index] == "X" || "O"
   true
 
 elsif board[index] = "" || " "
