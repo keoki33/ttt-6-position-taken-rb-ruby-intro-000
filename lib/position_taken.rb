@@ -2,7 +2,8 @@
 
 
 def position_taken?(board, index)
-if board[index] == "X" || "O"
+  value = board[index]
+if value == "X" || "O"
 
 end
 end
