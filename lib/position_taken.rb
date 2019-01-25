@@ -7,4 +7,3 @@ if board[index] = ""
   false
 
 end
-
